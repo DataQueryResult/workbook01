@@ -1,0 +1,1 @@
+For createing SQL queries
